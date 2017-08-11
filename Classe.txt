@@ -1,1 +1,2 @@
 int calor = 0;
+string nome = "nome";
